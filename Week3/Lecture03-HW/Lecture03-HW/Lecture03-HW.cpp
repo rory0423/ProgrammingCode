@@ -46,7 +46,7 @@ void drawBlock(int objectCode) {
 int main() {
     std::cout << "화면에 그림을 그리는 프로그램입니다.\n";
     std::cout << "학번: 202327055\n";
-    std::cout << "이름: 이름\n";
+    std::cout << "이름: 유재영\n";
     std::cout << "화면에 그릴 물체코드를 입력하세요 (종료를 원하면 64를 입력) :\n";
 
     int objectCode;
